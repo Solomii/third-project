@@ -3,4 +3,8 @@ script
 change main
 
 add changes in branch develop
+<<<<<<< HEAD
 
+=======
+add changes in branch develop
+>>>>>>> e613662 (Add change)
